@@ -1,0 +1,33 @@
+[
+{
+	"Host raw": "https://.facebook.com/",
+	"Name raw": "c_user",
+	"Path raw": "/",
+	"Content raw": "100000789526032",
+	"Expires": "21-05-2023 23:29:02",
+	"Expires raw": "1684700942",
+	"Send for": "Encrypted connections only",
+	"Send for raw": "true",
+	"HTTP only raw": "false",
+	"SameSite raw": "no_restriction",
+	"This domain only": "Valid for subdomains",
+	"This domain only raw": "false",
+	"Store raw": "firefox-default",
+	"First Party Domain": ""
+},
+{
+	"Host raw": "https://.facebook.com/",
+	"Name raw": "xs",
+	"Path raw": "/",
+	"Content raw": "215%3Ak1Ks6fqqTvVHZw%3A2%3A1627583545%3A-1%3A15160%3A%3AAcU0N0sRclA5TTiZx7T1JynInIjKro_2eKdyBTY_0QQ",
+	"Expires": "21-05-2023 23:29:02",
+	"Expires raw": "1684700942",
+	"Send for": "Encrypted connections only",
+	"Send for raw": "true",
+	"HTTP only raw": "true",
+	"SameSite raw": "no_restriction",
+	"This domain only": "Valid for subdomains",
+	"This domain only raw": "false",
+	"Store raw": "firefox-default",
+	"First Party Domain": ""
+}]
